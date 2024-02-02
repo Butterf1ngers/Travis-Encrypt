@@ -1,3 +1,6 @@
+os: linux
+rvm: 2.6.3
+
 notifications:
   email: false
 
